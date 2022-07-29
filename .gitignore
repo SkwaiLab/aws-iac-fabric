@@ -1,6 +1,6 @@
 .terraform*
 .aws*
-bucket-backenk/
-bucket-backenk
+iac-backend-bucket/
+iac-backend-bucket
 .terraform.lock.hcl
 terraform.tf*
